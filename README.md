@@ -2,7 +2,7 @@ NetScavenger is a simple tool to ping websites and get information like IP addre
 
 Installation
 Clone the repository:
-git clone https://github.com/xmax-monkey/NetScavenger
+git clone https://github.com/your-github-account/NetScavenger.git
 cd NetScavenger
 
 Install the package:
